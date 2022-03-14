@@ -1,0 +1,100 @@
+0K1SDERC | assistant       | 20
+0LZJ68SU | assistant       | 20
+0XZ4P1W2 | secure          | 15
+1C0JNP8K | accountant      | 20
+1GCPOX8E | department head | 20
+1IWHVZ2J | president       | 30
+1KWBR90M | secure          | 15
+1Q9B42S8 | vice president  | 25
+1UYCJ0MR | accountant      | 20
+2SJYXDEB | employee        | 10
+4DT901FI | secure          | 15
+4P1GA6VS | employee        | 10
+4WVZTOD5 | accountant      | 20
+5ITCAM9W | department head | 20
+6482BVI5 | employee        | 10
+6JHS82RD | department head | 20
+6TNCIXR8 | employee        | 10
+72RF19CP | department head | 20
+7RSE8AM0 | department head | 20
+8MF9DETG | department head | 20
+8TRODEGJ | department head | 20
+8ZIBURGO | employee        | 10
+91V5FOC2 | department head | 20
+9T2UMJSV | employee        | 10
+AQNBC8WM | department head | 20
+AZ6NBRWY | employee        | 10
+BL936MQF | department head | 20
+CAN17J3F | employee        | 10
+DI1NPKGC | employee        | 10
+DKQ7IMXZ | employee        | 10
+EMXGY178 | employee        | 10
+F7RKCEQN | employee        | 10
+FPQ2VCB7 | employee        | 10
+FSPR1XUE | employee        | 10
+G2N06MRA | employee        | 10
+G45YE2JT | employee        | 10
+GPYXJOZS | employee        | 10
+H8O2B7U3 | employee        | 10
+ID45BFW2 | employee        | 10
+IGADS3EY | employee        | 10
+J3VKMRXO | employee        | 10
+JEHVR57W | employee        | 10
+JHY7CKO2 | employee        | 10
+JVWC6X8U | employee        | 10
+K94SU3IL | employee        | 10
+KMLQ5UTW | employee        | 10
+KRX5U4I7 | employee        | 10
+L5S19XC7 | employee        | 10
+LGBP0AU7 | employee        | 10
+MVUP4L06 | employee        | 10
+N0XBICF4 | employee        | 10
+NEXB5ASJ | employee        | 10
+NI32HOR0 | employee        | 10
+NOA5RICB | employee        | 10
+OCV0WRXQ | employee        | 10
+ODBHP5Y7 | employee        | 10
+ODBVUGS9 | employee        | 10
+OUN6JT02 | employee        | 10
+P6Q8ENIC | employee        | 10
+PBVQ0J7N | employee        | 10
+PSRJCH0D | employee        | 10
+QJT3C0YU | employee        | 10
+QYDAEPGI | employee        | 10
+R92UWF4J | employee        | 10
+ROUP2IW1 | employee        | 10
+RQ9W0DXI | employee        | 10
+S5QL8PEA | employee        | 10
+SB4H5LC9 | employee        | 10
+SB9KWPVH | employee        | 10
+SJQK9TIA | employee        | 10
+SQVJB8NI | employee        | 10
+SY8IRHOG | employee        | 10
+SYFVW16X | employee        | 10
+TBS2QWD7 | employee        | 10
+TEUBH213 | employee        | 10
+TPG1XLSC | employee        | 10
+TQYD7J2B | employee        | 10
+U086CZSF | employee        | 10
+UF2A86MO | employee        | 10
+UHNDE65S | employee        | 10
+UPRL63ZG | employee        | 10
+UQ0O7SRK | employee        | 10
+UQID58GN | employee        | 10
+UTHSK68L | employee        | 10
+UZE4RG9X | employee        | 10
+V3L8P205 | employee        | 10
+VO4GNE1F | employee        | 10
+VPK9Q2OX | employee        | 10
+VTYX169P | employee        | 10
+VX9AJ4KW | employee        | 10
+VXZM8NBP | employee        | 10
+W6N2P9VH | employee        | 10
+WHPN3T09 | employee        | 10
+WPDIQX43 | employee        | 10
+X3GBZM58 | employee        | 10
+XT3CSL4Y | employee        | 10
+XTUL17IM | employee        | 10
+XV1Q43GL | employee        | 10
+Y9V6EQWB | employee        | 10
+YHST6D8E | employee        | 10
